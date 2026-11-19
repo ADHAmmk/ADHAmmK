@@ -10,7 +10,9 @@ I build responsive and interactive websites using **HTML, CSS, JavaScript, and R
 
 ### 🚀 Tech Stack
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,js,react](https://skillicons.dev/icons?i=html,css,js,react)" alt="My Tech Stack" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 - **HTML5** – Building structured and accessible web pages
 - **CSS3** – Styling, responsive layouts, and modern UI design
