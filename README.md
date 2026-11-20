@@ -44,11 +44,10 @@ To transform ideas into innovative digital projects that make a real difference,
 
 <a href="https://khamsat.com/user/farget_1142" target="_blank" rel="noreferrer" title="Khamsat">
   <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
-    <rect width="44" height="44" rx="10" fill="#27AE60"/>
-    <text x="22" y="28" text-anchor="middle" fill="#FFFFFF" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="bold">5</text>
+    <rect width="44" height="44" rx="8" fill="#FBBF24"/>
+    <text x="22" y="30" text-anchor="middle" fill="#1F2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">5</text>
   </svg>
 </a>
-
 
 ### Languages and Tools:
 <p align="left">
