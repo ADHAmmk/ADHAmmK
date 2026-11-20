@@ -11,8 +11,8 @@ I build responsive and interactive websites using **HTML, CSS, JavaScript, and R
 - 📄 Know about my experiences [My CV](https://example.com/my-cv)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-  <img src="https://www.linkedin.com/in/eng-adham-mohamed-16ab2240a/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+<a href="https://www.linkedin.com/in/eng-adham-mohamed-16ab2240a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 
 ### Languages and Tools:
