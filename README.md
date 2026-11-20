@@ -42,11 +42,8 @@ To transform ideas into innovative digital projects that make a real difference,
   <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40" />
 </a>
 
-<a href="https://khamsat.com/user/farget_1142" target="_blank" rel="noreferrer" title="Khamsat">
-  <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
-    <rect width="44" height="44" rx="8" fill="#FBBF24"/>
-    <text x="22" y="30" text-anchor="middle" fill="#1F2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">5</text>
-  </svg>
+<a href="https://khamsat.com/user/YOUR_USERNAME" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ADHAmmk/ADHAmmk/main/khamsat.png" alt="Khamsat" width="40" height="40" />
 </a>
 
 ### Languages and Tools:
