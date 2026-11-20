@@ -43,7 +43,7 @@ To transform ideas into innovative digital projects that make a real difference,
 </a>
 
 <a href="https://khamsat.com/user/farget_1142" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ADHAmmk/ADHAmmk/main/khamsat.png" alt="Khamsat" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ADHAmmk/ADHAmmk/main/kham.png" alt="Khamsat" width="40" height="40" />
 </a>
 
 ### Languages and Tools:
