@@ -42,8 +42,8 @@ To transform ideas into innovative digital projects that make a real difference,
   <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40" />
 </a>
 
-<a href="https://khamsat.com/user/farget_1142" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ADHAmmk/ADHAmmk/main/kham.png" alt="Khamsat" width="40" height="40" />
+<a href="https://khamsat.com/user/YOUR_USERNAME" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ADHAmmk/ADHAmmk/main/khamsat.jpg" alt="Khamsat" width="40" height="40" />
 </a>
 
 ### Languages and Tools:
