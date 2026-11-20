@@ -16,7 +16,7 @@ Connect with me:
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://www.w3schools.com/css/?i=html,css,js,react" />
+  <img src="https://www.w3schools.com/css/icons?i=html,css,js,react" />
 </p>
 
 - **HTML5** – Building structured and accessible web pages
