@@ -7,7 +7,7 @@ I'm **Adham Mohamed Ibrahim**, a Web Developer passionate about technology, prog
 I build responsive and interactive websites using **HTML, CSS, JavaScript, and React**. I enjoy turning ideas into real projects, creating clean user interfaces, and continuously improving my development skills.
 
 ---
-- 📫 How to reach me [your-email@example.com]()
+- 📫 How to reach me [your-email@example.com](abed44765@gmail.com)
 - 📄 Know about my experiences [My CV](https://example.com/my-cv)
 
 ### Connect with me:
