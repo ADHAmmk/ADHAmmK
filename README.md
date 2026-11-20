@@ -36,11 +36,16 @@ To transform ideas into innovative digital projects that make a real difference,
 ### Connect with me:
 <a href="https://www.linkedin.com/in/eng-adham-mohamed-16ab2240a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+
 <a href="https://www.instagram.com/mobarmeg_masr/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40" />
 </a>
+
+<a href="https://khamsat.com/user/farget_1142" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Khamsat-خمسات-27AE60?style=for-the-badge&logoColor=white" alt="Khamsat" height="40" />
 </a>
-</a>
+
 
 ### Languages and Tools:
 <p align="left">
