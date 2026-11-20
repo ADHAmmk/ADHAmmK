@@ -42,6 +42,11 @@ I build responsive and interactive websites using **HTML, CSS, JavaScript, and R
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Most Used Languages" />
 </a>
 
+### Most Used Languages:
+<a href="https://github.com/ADHAmmk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADHAmmk&layout=compact" alt="Most Used Languages" />
+</a>
+
 - **HTML5** – Building structured and accessible web pages
 - **CSS3** – Styling, responsive layouts, and modern UI design
 - **JavaScript** – Creating interactive and dynamic web experiences
