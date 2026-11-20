@@ -7,6 +7,11 @@ I'm **Adham Mohamed Ibrahim**, a Web Developer passionate about technology, prog
 I build responsive and interactive websites using **HTML, CSS, JavaScript, and React**. I enjoy turning ideas into real projects, creating clean user interfaces, and continuously improving my development skills.
 
 ---
+Connect with me:
+
+<p align="left">
+  <img src="https://www.w3schools.com/css/" />
+</p>
 
 ### 🚀 Tech Stack
 
